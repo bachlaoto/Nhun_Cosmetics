@@ -1,0 +1,182 @@
+.link_page {
+    background: #ebebeb;
+    padding-top: 10px;
+}
+
+.link_page p {
+    padding-right: 5px;
+}
+
+.khoidanhmuc {
+    /* margin-top: 30px; */
+    background: white;
+    padding: 10px;
+}
+
+.h3_danhmucsanpham {
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+.hr_danhmuc {
+    width: 20%;
+    background: #8e1943;
+    margin-bottom: 0;
+    height: 1px;
+}
+
+.rownoidung {
+    padding-top: 30px;
+}
+
+.left h5 {
+}
+
+.pg1 h5 {
+    font-size: 16px;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+
+.pg1 ul li {
+    border: none;
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom: 0;
+}
+
+.khoitopbanchay {
+    background: white;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.mb2 p {
+    margin-bottom: 0;
+}
+
+.mb2 {
+    padding-top: 5px;
+}
+
+.price {
+    color: #ff0000;
+    margin-right: 5px;
+}
+
+.spbanchay {
+    margin-top: 15px;
+}
+
+/*.danhmuc_sp {*/
+/*background: red;*/
+/*}*/
+
+.khoitintucmoinhat {
+    margin-top: 30px;
+    background: white;
+    padding: 10px;
+}
+
+.khoifacebook {
+    padding: 10px 0;
+    background: white;
+    margin-top: 30px;
+}
+
+h5.h3_danhmucsanpham.headketnoi {
+}
+
+.headketnoi {
+    padding-left: 10px;
+}
+
+.mb3 {
+    padding-left: 10px;
+}
+
+.tensp {
+    font-size: 18px;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.conhang {
+}
+
+.chitietsp p {
+    margin-bottom: 5px;
+}
+
+.chitietsp {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.chitietsp {
+}
+
+.motasp {
+    padding-top: 20px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.motangan {
+    margin-bottom: 0;
+}
+
+button.button.btn_minus.b-r-0 {
+    padding: 0 8px;
+    border: none;
+    background: #ebebeb;
+    color: gray;
+}
+
+button.button.btn_plus.b-l-0 {
+    padding: 0 8px;
+    border: none;
+    background: #ebebeb;
+    color: gray;
+}
+
+input.quantity {
+    width: 10%;
+}
+
+.conhang {
+    color: red;
+}
+
+.muahang {
+    padding-top: 10px;
+    color: red;
+}
+
+.muahang {
+}
+
+.hotline {
+    padding-top: 15px;
+}
+
+.btn_soluong {
+    color: white;
+    background: #8e1943;
+    border-radius: 20px;
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.motasp a {
+    text-decoration: none;
+}
+
+.noidung_thongtinchitiet {
+    padding-top: 20px;
+}
